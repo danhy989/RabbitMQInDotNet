@@ -1,0 +1,14 @@
+C:\Users\danhy\source\repos\easynetqdemo\Consume\bin\Debug\netcoreapp2.1\Consume.deps.json
+C:\Users\danhy\source\repos\easynetqdemo\Consume\bin\Debug\netcoreapp2.1\Consume.runtimeconfig.json
+C:\Users\danhy\source\repos\easynetqdemo\Consume\bin\Debug\netcoreapp2.1\Consume.runtimeconfig.dev.json
+C:\Users\danhy\source\repos\easynetqdemo\Consume\bin\Debug\netcoreapp2.1\Consume.dll
+C:\Users\danhy\source\repos\easynetqdemo\Consume\obj\Debug\netcoreapp2.1\Consume.csprojAssemblyReference.cache
+C:\Users\danhy\source\repos\easynetqdemo\Consume\obj\Debug\netcoreapp2.1\Consume.csproj.CoreCompileInputs.cache
+C:\Users\danhy\source\repos\easynetqdemo\Consume\obj\Debug\netcoreapp2.1\Consume.AssemblyInfoInputs.cache
+C:\Users\danhy\source\repos\easynetqdemo\Consume\obj\Debug\netcoreapp2.1\Consume.AssemblyInfo.cs
+C:\Users\danhy\source\repos\easynetqdemo\Consume\bin\Debug\netcoreapp2.1\Consume.pdb
+C:\Users\danhy\source\repos\easynetqdemo\Consume\obj\Debug\netcoreapp2.1\Consume.dll
+C:\Users\danhy\source\repos\easynetqdemo\Consume\obj\Debug\netcoreapp2.1\Consume.pdb
+C:\Users\danhy\source\repos\easynetqdemo\Consume\bin\Debug\netcoreapp2.1\TextMessage.dll
+C:\Users\danhy\source\repos\easynetqdemo\Consume\bin\Debug\netcoreapp2.1\TextMessage.pdb
+C:\Users\danhy\source\repos\easynetqdemo\Consume\obj\Debug\netcoreapp2.1\Consume.csproj.CopyComplete

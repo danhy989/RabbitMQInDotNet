@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\Consume\\Consume.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\Consume\\Consume.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\Consume\\Consume.csproj",
+        "projectName": "Consume",
+        "projectPath": "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\Consume\\Consume.csproj",
+        "packagesPath": "C:\\Users\\danhy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\Consume\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\TextMessage\\TextMessage.csproj": {
+                "projectPath": "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\TextMessage\\TextMessage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\TextMessage\\TextMessage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\TextMessage\\TextMessage.csproj",
+        "projectName": "TextMessage",
+        "projectPath": "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\TextMessage\\TextMessage.csproj",
+        "packagesPath": "C:\\Users\\danhy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danhy\\source\\repos\\easynetqdemo\\TextMessage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

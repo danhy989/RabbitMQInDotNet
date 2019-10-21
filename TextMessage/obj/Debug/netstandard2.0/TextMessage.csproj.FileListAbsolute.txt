@@ -1,0 +1,9 @@
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\bin\Debug\netstandard2.0\TextMessage.deps.json
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\bin\Debug\netstandard2.0\TextMessage.dll
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\bin\Debug\netstandard2.0\TextMessage.pdb
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\obj\Debug\netstandard2.0\TextMessage.csprojAssemblyReference.cache
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\obj\Debug\netstandard2.0\TextMessage.csproj.CoreCompileInputs.cache
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\obj\Debug\netstandard2.0\TextMessage.AssemblyInfoInputs.cache
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\obj\Debug\netstandard2.0\TextMessage.AssemblyInfo.cs
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\obj\Debug\netstandard2.0\TextMessage.dll
+C:\Users\danhy\source\repos\easynetqdemo\TextMessage\obj\Debug\netstandard2.0\TextMessage.pdb
