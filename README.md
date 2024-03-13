@@ -1,1 +1,1 @@
-# RabbitMQInDotNet
+Demo RabbitMQ in .NET
